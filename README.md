@@ -1,7 +1,7 @@
 # GoogleMap
-GoogleMapDirection
+    GoogleMapDirection
 
-    This repositery will tell you more about google map direction.This repositery will show you the direction between between source           and destination along with google map details.here you can also see the bottom sheet that is same looking like as Google Map   application.The bottom sheet will show you the details of route.
+    This project allows you to calculate the direction between two locations and display the route on a Google Map using the Google     Directions API.This repositery will tell you more about google map direction.This repositery will show you the direction between between source and destination along with google map details.here you can also see the bottom sheet that is same looking like as Google Map   application.The bottom sheet will show you the details of route.
 
     Note that :
     AndroidManifest.xml
